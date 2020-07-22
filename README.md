@@ -1,2 +1,2 @@
 # Equation-Solver
-linear equation solver
+Solving linear equation using sym
